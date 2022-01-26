@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kjais1720
+- 👋 Hi, I’m Krituraj Anand
 - 👀 I’m interested in the field of software Engineering.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on- will start projects soon..
